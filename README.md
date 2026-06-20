@@ -10,9 +10,9 @@ An end-to-end **AI-powered tennis analysis system** capable of automatically ana
 
 ### Demo Video
 
-```html
+
 <video src="preds/output.mp4" controls width="100%"></video>
-```
+
 
 If the video preview is not supported by GitHub, you can download and watch it directly from the `preds` folder.
 
