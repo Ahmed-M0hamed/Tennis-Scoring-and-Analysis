@@ -11,7 +11,8 @@ An end-to-end **AI-powered tennis analysis system** capable of automatically ana
 ### Demo Video
 
 
-<video src="preds/output.mp4" controls width="100%"></video>
+<!-- <video src="preds/output.mp4" controls width="100%"></video> -->
+https://github.com/Ahmed-M0hamed/Tennis-Scoring-and-Analysis/blob/main/preds/output.mp4
 
 
 If the video preview is not supported by GitHub, you can download and watch it directly from the `preds` folder.
