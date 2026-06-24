@@ -19,6 +19,9 @@ If the video preview is not supported by GitHub, you can download and watch it d
 
 ---
 
+## Models Checkpoints 
+https://drive.google.com/drive/folders/1X5CKHkweX5iXwSeX03U3k1Lpcs8QXXm1?usp=sharing
+
 ## 🔍 Project Highlights
 
 ### 📊 Dataset & Modeling
